@@ -1,0 +1,43 @@
+# RStudio files
+.Rproj.user/
+*.Rproj
+
+# R history and user-specific files
+.Rhistory
+.RData
+.Ruserdata
+
+# R package/check files
+*.Rcheck/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+~$*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Dataset files
+*.csv
+*.xlsx
+*.xls
+
+# Large/local data files
+data/
+datasets/
+
+# Generated output files
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Logs
+*.log
+
+# Temporary directories
+temp/
+tmp/
